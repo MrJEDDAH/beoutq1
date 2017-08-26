@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,BEIN SPORTS 1 HD (Arabic)
+http://gowatch.se/Beout1/index.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD (Arabic)
+http://cameraman.sx:80/live2/index.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD (Arabic)
+http://gowatch.se/beout3/index.m3u8
+#EXTINF:-1,BEIN SPORTS 4 HD (Arabic)
+http://cameraman.sx:80/live4/index.m3u8
+#EXTINF:-1,BEIN SPORTS 5 HD (Arabic)
+http://gowatch.se/beout5/index.m3u8
+#EXTINF:-1,BEIN SPORTS 6 HD (Arabic)
+http://cameraman.sx:80/live6/index.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD (Arabic)
+http://gowatch.se/beout7/index.m3u8
+#EXTINF:-1,BEIN SPORTS 8 HD (Arabic)
+http://cameraman.sx:80/live8/index.m3u8
+#EXTINF:-1,BEIN SPORTS 9 HD (Arabic)
+http://gowatch.se/beout9/index.m3u8
+#EXTINF:-1,BEIN SPORTS 10 HD (Arabic)
+http://cameraman.sx/live10/index.m3u8
+#EXTINF:-1,BEIN SPORTS 11 (English)
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/8299.ts
+#EXTINF:-1,BEIN SPORTS 12 (English)
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/8298.ts
+#EXTINF:-1,BEIN SPORTS 1 FR
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/8301.ts
+#EXTINF:-1,BEIN SPORTS 2 FR
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/8302.ts
+#EXTINF:-1,BEIN SPORTS 3 FR
+http://sporti.tv:6500/live/UmThMMGT7E/7iCJNU3ojN/8303.ts
